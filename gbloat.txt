@@ -1,0 +1,9 @@
+adb shell pm uninstall --user 0 com.google.android.aicore
+adb shell pm uninstall --user 0 com.google.ar.core
+adb shell pm uninstall --user 0 com.samsung.SMT.lang_hi_in_f00
+adb shell pm uninstall --user 0 com.samsung.SMT.lang_ar_ae_m00
+adb shell pm uninstall --user 0 com.samsung.android.smartsuggestions
+adb shell pm uninstall --user 0 com.samsung.android.vision.model
+adb shell pm uninstall --user 0 com.google.android.as
+adb shell pm uninstall --user 0 com.samsung.android.intelligenceservice
+adb shell pm uninstall --user 0 com.samsung.android.intelligenceservice
